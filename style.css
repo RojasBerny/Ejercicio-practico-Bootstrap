@@ -1,0 +1,5 @@
+div{border: 1px; border-style: solid;}
+main .col{height: 200px; border-style: none;}
+main .row{border: 0px}
+#caja-1{border: 0; border-top: 1px; border-style: solid;}
+#caja-2{border: 0 ;border-bottom: 1px; border-style: solid; }
